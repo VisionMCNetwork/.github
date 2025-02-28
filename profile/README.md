@@ -10,7 +10,7 @@ VisionMC was an upcoming Practice server that changed practice as we knew it.
 
 ### We now wish to open source some of our assets in order to help people make servers that will empower the 1.8 community
 
-#### SpigotV - An Optimized SpigotX fork with vulnrabilities patched and general bug fixes. Includes 1:1 2023 MMC knockback.
+#### SpigotV - An Optimized SpigotX fork with vulnrabilities patched and has general bug fixes. Includes a mid clone of 2021 MMC knockback.
 [More info](https://github.com/VisionMCNetwork/SpigotV)
 
 #### Nitrogen - A very old version of Nitrogen that most likely won't compile, made by RayquazaDev.
